@@ -4,3 +4,4 @@ ingredients:
 
    onion
    garlic
+   tomato
